@@ -1,8 +1,7 @@
 package com.example.preferencefragmentexemple.settings
 
-import android.app.AppComponentFactory
+
 import android.os.Bundle
-import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
 
 class SettingsActivity:AppCompatActivity() {
